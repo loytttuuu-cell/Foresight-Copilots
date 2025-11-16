@@ -9,7 +9,7 @@ Emerging advances in artificial intelligence, particularly retrieval-augmented g
 
 INNOVATION CONCPET
 
-The initiative proposes the development and deployment of AI-powered, reusable foresight copilots designed specifically for regional action planning and rural development contexts. These copilots would:
+The initiative proposes the development and deployment of AI-powered, reusable foresight copilots designed specifically for regional action planning and urban/rural development contexts. These copilots would:
 *Turn static foresight methodologies into interactive, explainable, self-serve tools.
 *Automate discovery, scenario synthesis, institutional mapping, and training assembly.
 *Enable rapid localization, supporting same-week regional onboarding rather than multi-month preparation.
